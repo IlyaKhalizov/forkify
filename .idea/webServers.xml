@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7b15fa12-724a-4440-965f-d2f816c4ee59" name="vultr_ubuntu" url="http://80.240.16.240">
+        <fileTransfer host="80.240.16.240" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
